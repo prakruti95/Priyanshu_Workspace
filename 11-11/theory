@@ -1,0 +1,35 @@
+JDK -> Java Development Kit -> compile & run
+-> Compiler
+
+JRE -> Java Runtime Environment
+JVM -> Java Virtual Machine
+
+public -> visibility Modifier
+static -> keyword [fix the value]
+void -> return type[Null value return]
+main -> main method/function
+
+-> every program will execute from main method
+-> Java is case senstivie
+
+Upper case -> A,B,C
+Lower case -> a,b,c
+
+data type:
+integer -> int -> numeric
+float -> float -> decimal
+character -> char -> characters
+double -> double -> decimals
+String -> String -> any value
+boolean -> bool -> true,false
+
+
+int a;
+
+Conditional statements:
+1) if
+2) else if
+3) else
+4) nested if
+5) switch-case-break
+
