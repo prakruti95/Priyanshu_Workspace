@@ -1,0 +1,26 @@
+Overloading:When two or more methods having a same name but number of parameters
+are diffrent at that time we are calling method overloading
+
+Overriding: When two or more method having a same name but number of parameters are
+also same that is called overriding
+
+String : 
+"jkjjfdkg"
+
+String -> immutable[can not change directly]
+
+mutable
+StringBuilder
+StringBuffer
+
+String s = "sachin";
+s.concat("tendulkar");
+syso(s);
+
+ASCII value
+
+
+
+
+
+
