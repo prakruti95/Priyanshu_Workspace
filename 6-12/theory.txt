@@ -1,0 +1,14 @@
+Array:Collection of elements that is called an array
+
+Types of array
+1)1-D Array [one dimensional array]
+2)2-D Array [two dimensional array]
+
+-> you can not changes array's value dynamically for that 
+you have to use arraylist
+
+-> array's index will start with 0.
+
+->enumerations -> enum -> fixed constant value can add
+
+->
