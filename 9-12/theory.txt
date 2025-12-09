@@ -1,0 +1,10 @@
+Exception Handling
+
+-> Exception means Error
+-> Error Handle
+-> Keywords: try,catch,throw,throws,finally
+
+File Handling
+-> FileOutputStream [write]
+-> FileInputStream [read]
+
