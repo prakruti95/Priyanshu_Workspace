@@ -1,0 +1,14 @@
+Thread:Process Handling
+
+Thread Lifecycle
+
+init
+start
+run
+stop
+destroy
+
+
+Thread Implementation Way
+extends Thread
+implements Runnable
