@@ -1,0 +1,24 @@
+Collections
+
+interface:
+-> List
+-> Set
+-> Map
+
+class:
+-> arraylist,linkedlist
+-> hashset,linkedhashset
+-> hashmap
+-> vector
+-> stack
+
+hashmap:
+put
+get
+
+others:
+add
+addAll
+remove
+removeAll
+retainAll
