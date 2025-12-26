@@ -1,0 +1,18 @@
+signup
+
+$n1 = $_POST['name'];
+ $s1 = $_POST['surname'];
+ $e1 = $_POST['email'];
+ $p1 = $_POST['password'];
+
+signin
+
+  $email = $_REQUEST["e1"];
+    $pass = $_REQUEST["p1"];
+
+
+product:
+    $data["id"] = $row["id"];
+    $data["pname"] = $row["pname"];
+    $data["pprice"] = $row["pprice"];
+    $data["pdes"] = $row["pdes"];
